@@ -137,6 +137,3 @@ The script includes error handling for:
 - No incremental updates (full data transfer each time)
 - No parallelization of transfers across indices
 
-## License
-
-[Your license here]
